@@ -12,8 +12,7 @@ Group Members
 4.) Piyasinghe H.K.N.Y IT20297640
 <br/>
 <br/>
-
-<p2/>Instrctions to Install
+Instructions to Install
 1. Download and Unzip the Backend File
 <br/>
 2. Download and Unzip the Frontend File
