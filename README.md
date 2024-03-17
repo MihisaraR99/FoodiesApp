@@ -14,8 +14,6 @@ Group Members
 <br/>
 
 <p2/>Instrctions to Install
-<br/>
-<br/>
 1. Download and Unzip the Backend File
 <br/>
 2. Download and Unzip the Frontend File
