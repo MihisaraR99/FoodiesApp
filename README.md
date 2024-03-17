@@ -11,13 +11,18 @@ Group Members
 <br/>
 4.) Piyasinghe H.K.N.Y IT20297640
 <br/>
+<br/>
 
 <p2/>Instrctions to Install
 <br/>
-Download and Unzip the Backend File
-Download and Unzip the Frontend File
-Open Backend file in IntelliJ IDE
-Open Frontend File in VSCode and run the npm start command
+<br/>
+1. Download and Unzip the Backend File
+<br/>
+2. Download and Unzip the Frontend File
+<br/>
+3. Open Backend file in IntelliJ IDE and run the project
+<br/>
+4. Open Frontend File in VSCode and run the npm start command
 
 
 
