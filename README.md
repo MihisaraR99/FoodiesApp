@@ -10,3 +10,14 @@ Group Members
 3.) Rubasinghe L.M IT20299552
 <br/>
 4.) Piyasinghe H.K.N.Y IT20297640
+<br/>
+
+<p2/>Instrctions to Install
+<br/>
+Download and Unzip the Backend File
+Download and Unzip the Frontend File
+Open Backend file in IntelliJ IDE
+Open Frontend File in VSCode and run the npm start command
+
+
+
